@@ -1,0 +1,28 @@
+h1 {
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+}
+ol {
+  font-size: 24px;
+  color: yellow;
+}
+
+ul {
+  font-size: 24px;
+  color: yellow;
+}
+
+h2 {
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 30px;
+  font-style: oblique;
+  color: white;
+
+
+}
+body {
+    background-image: url(http://cdn.pcwallart.com/images/gradient-texture-background-wallpaper-1.jpg);
+    background-size: auto;
+  }
