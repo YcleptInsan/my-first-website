@@ -1,8 +1,8 @@
 # _{My First Webpage}_
 
-#### _{First Day HTML Project}, {1-2-2017}_
+#### _{First Day HTML Project}, {04-17-2017}_
 
-#### By _**{Nicks}**_
+#### By _**{Nick and Anabel}**_ 
 
 ## Description
 
@@ -21,7 +21,7 @@ _{No known bugs}_
 
 ## Support and contact details
 
-_{Contact me via email bfarrier@mail.com}_
+_{Contact me via email nickmwise@gmail.com or anabel@apparentinc.com}_
 
 ## Technologies Used
 
